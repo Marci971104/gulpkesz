@@ -1,0 +1,22 @@
+{
+  "name": "gulpAlap",
+  "version": "1.0.0",
+  "description": "Típusok",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server --baseDir=public"
+  },
+  "author": "Rohrbacher Marcell",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-uglify": "^3.0.2",
+    "lite-server": "^2.6.1"
+  }
+}
